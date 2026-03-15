@@ -1,4 +1,4 @@
-# 100_days_python_journey
+# 100 Days Python Journey
 
 Welcome to my Python learning journey!  
 
